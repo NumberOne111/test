@@ -2,6 +2,6 @@ function countArray(array) {
 	return array.length;
 }
 
-p5.prototype.pri = function(obj) {
+ function pri(obj) {
 	print(obj);
 }
