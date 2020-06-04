@@ -1,3 +1,3 @@
-p5.prototype.countArray = function(array) {
+function countArray(array) {
   return array.length;
 }
